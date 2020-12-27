@@ -34,7 +34,7 @@ bash rmd.sh -r ~/Pictures/rmd/ -l 47 -x 1 -m igv -a top -t all -s "wallpaper" -f
 | `x`   | nsfw content     	| (1 , 0)          	|
 
 All comments are optional. Running without sub would get posts from all.
-
+> Audio doesn't work for videos based on how reddit streams video. Yet to figure out this.
 
 ## Mention
 
